@@ -223,9 +223,6 @@ __marimo__/
 # WAV Files
 *.wav
 
-# TXT files
-*.txt
-
 # Anims
 media/
 
