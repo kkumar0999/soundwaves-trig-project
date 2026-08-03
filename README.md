@@ -28,6 +28,7 @@ Make sure you have Python installed, then install the required libraries by runn
 `pip install -r requirements.txt`
 
 ### Running the Project
+> Note: This project only works with WAV (.wav) files.
 1. Update the configuration variables in `main.py` as necessary. Specifically:
     - Change `NUM_WAVES` to the number of waves you want the approximation to use.
     - Change `SCALE` to the factor in which you want amplitude values to be scaled down by.
