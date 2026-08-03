@@ -1,4 +1,6 @@
 # soundwaves-trig-project
+> Note: This project was done for an assignment in my sophomore year of high school, so it might not be perfect! (Which is an understatement...)
+
 This repository stores the code for my Algebra 2/Trigonometry project!
 
 Now, considering that I made this project in my sophomore year of high school with a deadline, it's no wonder that the actual code is a little messy... But I wanted to publish this because this project was actually the main inspiration for my [audio visualizer project!](https://github.com/kkumar0999/audio-visualizer) So if you'd like to check that out, you can as well.
